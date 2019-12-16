@@ -2368,19 +2368,19 @@ input, select, textarea {
 	}
 
 		.quotes input, .quotes select, .quotes textarea {
-			color: #ffffff;
+			color: #030303;
 		}
 
 		.quotes a {
-			color: #ffffff;
+			color: #030303;
 		}
 
 		.quotes strong, .quotes b {
-			color: #ffffff;
+			color: #030303;
 		}
 
 		.quotes h1, .quotes h2, .quotes h3, .quotes h4, .quotes h5, .quotes h6 {
-			color: #ffffff;
+			color: #030303;
 		}
 
 		.quotes blockquote {
@@ -2410,7 +2410,7 @@ input, select, textarea {
 			}
 
 				.quotes > article .author .name {
-					color: #5ac3d6;
+					color: #ffffff;
 					display: block;
 					font-size: 1.2em;
 					font-weight: 400;
@@ -2498,7 +2498,12 @@ input, select, textarea {
 				padding: 4em 0 2em 0 ;
 			}
 
+			#testimonia1 {
+				display: none;
+			}
+
 		}
+
 
 /* Ratungs */
 
